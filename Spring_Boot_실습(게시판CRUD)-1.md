@@ -9,5 +9,6 @@
 - JPA
 - Lombok
 
-## DB
+## DB 설정
 
+[f](https://kitty-geno.tistory.com/125)

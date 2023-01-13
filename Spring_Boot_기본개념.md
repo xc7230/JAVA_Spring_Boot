@@ -36,4 +36,3 @@ Client의 요청을 DTO의 형태로 받아 Service의 기능을 호출하고 �
 
 ### Service
 Controller에서 받은 DTO를 통해 여러 로직들을 처리하고, DAO(또는 Repository)를 통해 DB에 접근해 데이터를 관리한다.
-
